@@ -1,0 +1,8 @@
+{
+  "name": "space-game",
+  "version": "1.0.0",
+  "description": "Classic space war game using OOP and  JavaScript",
+  "main": "script.js",
+  "author": "Hasan Mohamed",
+  "license": "MIT"
+}
